@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot 🔳
 
-![Project screenshot](design/desktop-preview.jpg)
+![Project screenshot](images/screenshot.jpeg)
 
 ### Links 🔗
 
-- Solution URL: [https://github.com/JohnMwendwa/testimonials-grid-section](https://github.com/JohnMwendwa/testimonials-grid-section)
-- Live Site URL: [https://johnmwendwa.github.io/testimonials-grid-section](https://johnmwendwa.github.io/testimonials-grid-section/)
+- Solution URL: [https://github.com/NickiMash17/testimonials-grid-section](https://github.com/NickiMash17/testimonials-grid-section)
+- Live Site URL: [https://testimonials-grid-section-iota-mocha.vercel.app/](https://testimonials-grid-section-iota-mocha.vercel.app/)
 
 ## My process 🛠
 
