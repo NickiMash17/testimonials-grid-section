@@ -50,39 +50,39 @@ main{
     transform: scale(1.04);
   }
   
-  .card__header {
+  .card_header {
     display: flex;
     align-items: center;
     gap: 1rem;
     margin-bottom: 0.75rem;
   }
   
-  .card__header .avatar img {
+  .card_header .avatar img {
     width: 2.5rem;
     height: 2.5rem;
     border-radius: 50%;
     border: 2px solid var(--border-clr);
   }
   
-  .card__header .text h2 {
+  .card_header .text h2 {
     font-size: 0.84rem;
     font-weight: 500;
   }
   
-  .card__header .text p {
+  .card_header .text p {
     font-weight: 300;
     margin-top: 0.25rem;
     opacity: 0.5;
   }
   
-  .card__body h3 {
+  .card_body h3 {
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 1rem;
     letter-spacing: 0.01rem;
   }
   
-  .card__body p {
+  .card_body p {
     font-size: 0.82rem;
     font-weight: 300;
     line-height: 1.5;
